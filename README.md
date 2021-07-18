@@ -2,7 +2,7 @@
 ## Documentacion
 ### Contenido
 
-* Card configurable utilizada en el componente principal de una App de ejemplo, donde se configura su titulo y body.
+* Card configurable utilizada en el componente principal de una App de ejemplo, donde se configura su title y body.
 
 * Su altura es de 300px y su ancho es de 150px. Se utiliza flexbox con valor column para la propiedad flex-direction.
 
